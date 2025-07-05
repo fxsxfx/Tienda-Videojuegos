@@ -1,6 +1,4 @@
-# Sistema de Gestión y Comercio Electrónico para Tienda de Videojuegos
-#EN PROCESO
-
+# Sistema de Gestión y Comercio Electrónico para Tienda de Videojuegos - EN PROCESO
 ## Descripción
 
 Este repositorio contiene el código fuente del sistema integral para la gestión interna (backoffice) y la plataforma de ventas en línea de una tienda especializada en videojuegos (tipo GamePlanet). El sistema permite:
@@ -46,6 +44,16 @@ Este repositorio contiene el código fuente del sistema integral para la gestió
 ## Tecnologías Utilizadas
 
 * Por definir
+
+## Documentación
+
+Podrás obtener mayor información sobre este proyecto accediendo a la siguiente liga: https://drive.google.com/drive/folders/1X6pISiZnCMAqJblC-mtOYY7orLU6A2xM?usp=sharing
+
+Esta incluye (04/07/2025):
+
+   * Diagrama E-R.
+   * Diccionario de datos.
+   * Bitácora.
 
 ## Contacto
 
